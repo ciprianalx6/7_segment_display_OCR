@@ -12,7 +12,7 @@
 
 
 
-# How I can run it?
+# How can I run it?
  * Download MATLAB
  * Download the repository. 
  ![Alt Text](https://s7.ezgif.com/tmp/ezgif-7621e34c947647.gif)
